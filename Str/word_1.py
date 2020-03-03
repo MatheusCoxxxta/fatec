@@ -6,3 +6,4 @@ if(drow != word):
     print("Não palindrome")
 else:
     print("Palindrome")
+
